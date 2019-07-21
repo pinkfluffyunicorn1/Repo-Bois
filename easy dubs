@@ -1,1 +1,4 @@
-print("f is for friends who do stuff w/ out you. U is for you and me. N is for no time, no time at all down here in the deep blue sea. ")
+# The slashes might help
+print("f is for friends who do stuff w/ out you. \
+U is for you and me. N is for no time, no time at all \
+down here in the deep blue sea. ")
